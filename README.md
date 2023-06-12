@@ -1,5 +1,5 @@
-![logo](https://github.com/Saravanakumarsk1210/Saravanakumarsk1210/blob/main/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner%20(4).png)
-<h1 align="center">Hey hii, I'm Narmadha 🌸</h1>
+![logo](https://github.com/Narmadha04/Narmdha04/blob/main/Narmadha.png)
+<h1 align="center">Hey hii, I'm Narmadha 🌺</h1>
 <h3 align="center">Dedicated student !!</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Saravanakumar1210/saravanakumar1210s/blob/main/narmadha%20gif.gif">
 
